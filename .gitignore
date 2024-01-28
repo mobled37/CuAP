@@ -16,3 +16,4 @@ sgdc_data
 precomputed
 wandb
 *.ipynb
+.env
